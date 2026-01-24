@@ -2,7 +2,7 @@
 
 ## Sous titre
 
-Voici le projet de Clemence Blanchet
+Voici le projet de Liyana SOMA
 Sur l.....
 Objectif......
 
