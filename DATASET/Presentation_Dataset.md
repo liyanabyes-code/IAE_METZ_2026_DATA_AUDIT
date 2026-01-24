@@ -5,3 +5,7 @@ DATA SOURCES:
 FMI
 INSEE, STATECT,
 BLOOMBERG, YFinance (package python repute) 
+
+
+
+https://www.kaggle.com/datasets
